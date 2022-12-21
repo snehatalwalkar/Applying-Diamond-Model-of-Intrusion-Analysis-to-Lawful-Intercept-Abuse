@@ -1,0 +1,1 @@
+# Applying-Diamond-Model-of-Intrusion-Analysis-to-Lawful-Intercept-Abuse
